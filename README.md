@@ -1,2 +1,2 @@
 # Spotfy-webAplication
-Spotify page by HTML and CSS
+Spotify page made in HTML and CSS
